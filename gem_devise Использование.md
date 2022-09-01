@@ -4,3 +4,7 @@
 4 Следовать инструкции devise
 5 rails g devise user - создает модель юзер под devise (вместо rails g model user)
 
+#ROR 
+#настройка_ROR
+#ruby_gem
+

@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "3c9d4a37a21556c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "79178509400d45cd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Метод помидоров.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0da1c450a938fab",
+    "type": "split",
+    "children": [
+      {
+        "id": "841301d1a7eb13d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0b5ff367a0d73ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7404d20b4551da91",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#методики_обучения",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fab2f29656ab433e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "38a416312cbcd4cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c401450eaed85f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec3542ac8420f99a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Метод помидоров.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8531b777b115ef4f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Метод помидоров.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53ef97c8d3bbfe5a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aaba949fbc2f8de9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Метод помидоров.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7404d20b4551da91",
+  "lastOpenFiles": [
+    "все теги.md",
+    "Метод помидоров.md",
+    "Zettelkasten.md",
+    "Правила ведения картотеки Zettelkasten.md",
+    "правила ведения заметок Zettelkasten.md",
+    "Переосмысление.md"
+  ]
+}
