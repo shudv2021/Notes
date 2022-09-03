@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9962b2db531eaf38",
+        "id": "2d384c3def26f954",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/Правила ведения картотеки Zettelkasten.md",
+            "file": "курс Ruby для пикабушников.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "пика",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Правила ведения картотеки Zettelkasten.md",
+                "file": "курс Ruby для пикабушников.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Правила ведения картотеки Zettelkasten.md",
+                "file": "курс Ruby для пикабушников.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Правила ведения картотеки Zettelkasten.md"
+                "file": "курс Ruby для пикабушников.md"
               }
             }
           }
@@ -128,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9962b2db531eaf38",
+  "active": "2d384c3def26f954",
   "lastOpenFiles": [
-    "Zettelkasten/Zettelkasten.md",
-    "Zettelkasten/Переосмысление.md",
-    "Zettelkasten/Правила ведения картотеки Zettelkasten.md",
-    "Сергеем Немчинским.md",
-    "интервальное повторение.md",
-    "кривая забывания.md",
+    "CSS.md",
+    "Усвоение Английского.md",
     "проект словарь програмиста.md",
-    "словарь програмиста 1.md",
-    "Rspec тестирование.md",
-    "gem_devise Использование.md"
+    "курс Ruby для пикабушников.md",
+    "время на обучение за сентябрь.md",
+    "Отвлекающие факторы.md",
+    "Подготовка к собеседованию.md",
+    "road map.md",
+    "JavaScript.md",
+    "Ruby on Rails.md"
   ]
 }
