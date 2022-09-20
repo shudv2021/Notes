@@ -26,3 +26,4 @@
 
 [Путь Ruby](https://www.ozon.ru/context/detail/id/33512246/)  
 Читаем, чтобы расширить основы
+[[Ruby on Rails]]

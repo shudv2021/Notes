@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2d384c3def26f954",
+        "id": "336c8b1bc4829a96",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "курс Ruby для пикабушников.md",
+            "file": "programer dictionary.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "пика",
+                "query": "мысли",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "курс Ruby для пикабушников.md",
+                "file": "programer dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "курс Ruby для пикабушников.md",
+                "file": "programer dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "курс Ruby для пикабушников.md"
+                "file": "programer dictionary.md"
               }
             }
           }
@@ -129,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2d384c3def26f954",
+  "active": "336c8b1bc4829a96",
   "lastOpenFiles": [
+    "decoratoers.md",
+    "структура RoR проекта.md",
+    "conserns.md",
+    "programer dictionary.md",
+    "Ruby on Rails.md",
+    "Ruby.md",
+    "курс Ruby для пикабушников.md",
     "CSS.md",
     "Усвоение Английского.md",
-    "проект словарь програмиста.md",
-    "курс Ruby для пикабушников.md",
-    "время на обучение за сентябрь.md",
-    "Отвлекающие факторы.md",
-    "Подготовка к собеседованию.md",
-    "road map.md",
-    "JavaScript.md",
-    "Ruby on Rails.md"
+    "проект словарь програмиста.md"
   ]
 }
